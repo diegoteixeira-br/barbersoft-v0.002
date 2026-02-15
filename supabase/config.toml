@@ -20,6 +20,3 @@ verify_jwt = false
 
 [functions.reset-deletion-password]
 verify_jwt = false
-
-[functions.n8n-get-shop-info]
-verify_jwt = false
